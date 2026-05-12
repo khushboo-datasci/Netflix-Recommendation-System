@@ -231,18 +231,6 @@ jupyter
 
 ---
 
-# 🚀 Future Improvements
-
-- Streamlit Web App
-- Hybrid Recommendation System
-- Deep Learning Recommendations
-- Real-Time Recommendations
-- FastAPI Deployment
-- Docker Deployment
-- Cloud Deployment (AWS/GCP)
-
----
-
 # 📚 Learning Outcomes
 
 Through this project, I learned:
